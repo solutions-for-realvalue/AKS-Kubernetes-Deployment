@@ -23,3 +23,15 @@ This repository provides examples of deploying highly available containerized ap
 
 ---
 
+## 📌 Getting Started
+
+- steps for environment setup and deployment instructions...
+
+---
+
+## 🤝 Contributing & Collaboration
+
+I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
+
+---
+
