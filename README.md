@@ -1,4 +1,4 @@
-# Kubernetes Application Deployment on Azure AKS 📦
+# 📦 Kubernetes Application Deployment on Azure AKS
 
 Scalable, secure deployment of containerized applications using **Azure Kubernetes Service (AKS)**.
 
