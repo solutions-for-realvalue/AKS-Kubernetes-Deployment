@@ -1,12 +1,16 @@
 # Kubernetes Application Deployment on Azure AKS 📦
 
-Scalable, secure deployment of containerized applications using Azure Kubernetes Service (AKS).
+Scalable, secure deployment of containerized applications using **Azure Kubernetes Service (AKS)**.
 
 ---
 
 ## 📖 Project Overview
 
-This repository provides examples of deploying highly available containerized applications using AKS. It covers Kubernetes concepts, container orchestration, and CI/CD deployment using GitHub Actions.
+This project demonstrates the deployment and management of **highly available containerized applications** using **Azure Kubernetes Service (AKS)**. It covers:
+*   Kubernetes concepts and best practices for deployment.
+*   Infrastructure as Code (IaC) using Terraform.
+*   Secure networking and RBAC configurations.
+*   CI/CD pipeline automation using GitHub Actions & Azure DevOps.
 
 ## 🛠️ Features
 
