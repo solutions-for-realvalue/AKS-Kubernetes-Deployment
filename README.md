@@ -10,7 +10,7 @@ This repository provides a hands-on approach to deploying **highly available con
 *   **Kubernetes fundamentals**: Deployments, Services, Ingress, and Scaling.
 *   **Networking & Security**: Configuring **RBAC, NSGs, and Encryption**.
 *   **CI/CD Pipelines**: Automating application deployment using **GitHub Actions**.
-*   CI/CD pipeline automation using GitHub Actions & Azure DevOps.
+*   **Monitoring & Cost Optimization**: Using **Azure Monitor, Prometheus, and Grafana**.
 
 ## 🛠️ Features
 
