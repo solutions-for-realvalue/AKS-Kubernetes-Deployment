@@ -6,7 +6,7 @@ Scalable, secure deployment of containerized applications using **Azure Kubernet
 
 ## 📖 Project Overview
 
-This project demonstrates the deployment and management of **highly available containerized applications** using **Azure Kubernetes Service (AKS)**. It covers:
+This repository provides a hands-on approach to deploying **highly available containerized applications** using **AKS**. The focus is on:
 *   Kubernetes concepts and best practices for deployment.
 *   Infrastructure as Code (IaC) using Terraform.
 *   Secure networking and RBAC configurations.
