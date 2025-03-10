@@ -22,18 +22,29 @@ This repository provides a hands-on approach to deploying **highly available con
 *   Integrate monitoring with **Prometheus, Grafana, and Azure Monitor** for observability.
 *   Scale applications dynamically based on workload demand.
 
+---
+
+## 📖 Learning Roadmap
+
+
+
+
+
+
+---
+
+## 📌 Getting Started
+
+*   Follow the installation guide in the repository for setting up AKS and deploying applications.
+
+---
+
 ## 🌟 Core Skills Demonstrated
 
 *   **Cloud Environments**: Azure AKS, Azure VMs
 *   **IaC & Automation**: Terraform, Helm Charts, GitHub Actions
 *   **Security & Compliance**: RBAC, NSGs, Encryption
 *   **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana
-
----
-
-## 📌 Getting Started
-
-*   steps for environment setup and deployment instructions...
 
 ---
 
