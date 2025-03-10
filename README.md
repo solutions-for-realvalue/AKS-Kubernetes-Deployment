@@ -41,10 +41,10 @@ This repository provides a hands-on approach to deploying **highly available con
 
 ## 🌟 Core Skills Demonstrated
 
-*   **Cloud Environments**: Azure AKS, Azure VMs
-*   **IaC & Automation**: Terraform, Helm Charts, GitHub Actions
-*   **Security & Compliance**: RBAC, NSGs, Encryption
-*   **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana
+*   **Cloud Environments**: Azure AKS, Virtual Machines, Load Balancing.
+*   **IaC & Automation**: Terraform, Helm, GitHub Actions, Azure DevOps.
+*   **Security & Compliance**: RBAC, Azure Policy, Key Vault.
+*   **Monitoring & Optimization**: Azure Monitor, Prometheus, Grafana.
 
 ---
 
