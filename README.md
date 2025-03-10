@@ -12,6 +12,8 @@ This repository provides a hands-on approach to deploying **highly available con
 *   **CI/CD Pipelines**: Automating application deployment using **GitHub Actions**.
 *   **Monitoring & Cost Optimization**: Using **Azure Monitor, Prometheus, and Grafana**.
 
+---
+
 ## 🛠️ Features
 
 *   Deployment and scaling of applications using Kubernetes deployments.
