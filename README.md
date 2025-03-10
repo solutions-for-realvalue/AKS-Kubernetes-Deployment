@@ -44,13 +44,17 @@ This repository provides a hands-on approach to deploying **highly available con
 
     **📚 Relevant Courses:**
     *   [Terraform for Azure](https://www.udemy.com/course/terraform-on-azure-services/)
-    *   [Helm Charts & Kubernetes]()
+    *   [Helm Charts & Kubernetes](https://www.udemy.com/course/definitive-helm-course-beginner-master/)
 
+### 🛠️ **Phase 3: Security & Compliance
 
+*   Implement **RBAC (Role-Based Access Control)** for Kubernetes resources.
+*   Enforce security best practices using **Azure Policy & Defender for Cloud**.
+*   Encrypt Kubernetes secrets using **Azure Key Vault**.
 
-
-
-
+    **📚 Relevant Courses:**
+    *   [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)
+    *   [Azure Kubernetes Security Best Practices](https://learn.microsoft.com/en-us/azure/aks/security-best-practices)
 
 
 
