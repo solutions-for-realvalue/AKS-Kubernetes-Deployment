@@ -28,8 +28,32 @@ This repository provides a hands-on approach to deploying **highly available con
 
 
 
+## 📂 Repository Structure
 
-
+```bash
+AKS-Kubernetes-Deployment/
+│── README.md                  # Overview & Getting Started
+│── Kubernetes/
+│   ├── deployment.yaml         # Kubernetes Deployment Config
+│   ├── service.yaml            # Kubernetes Service Config
+│   ├── ingress.yaml            # Ingress Controller Config
+│   ├── namespace.yaml          # Namespace for Deployment
+│── Terraform/
+│   ├── main.tf                 # Terraform Configuration for AKS
+│   ├── variables.tf             # Terraform Variables
+│   ├── outputs.tf               # Terraform Outputs
+│── CI-CD/
+│   ├── github-actions.yml       # GitHub Actions Pipeline
+│   ├── azure-pipelines.yml      # Azure DevOps Pipeline
+│── Security/
+│   ├── rbac.yaml                # RBAC Policies
+│   ├── azure-policy.json        # Azure Policy for Compliance
+│── Monitoring/
+│   ├── prometheus-config.yaml   # Prometheus Configuration
+│   ├── grafana-dashboard.json   # Grafana Dashboard Config
+│── LICENSE
+│── Journal.md                  # Weekly Progress Tracking
+```
 
 ---
 
