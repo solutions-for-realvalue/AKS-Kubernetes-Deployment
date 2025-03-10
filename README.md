@@ -62,7 +62,8 @@ This repository provides a hands-on approach to deploying **highly available con
 *   Integrate automated testing and security scanning.
 
     **📚 Relevant Courses:**
-    *   
+    *   [CI/CD with GitHub Actions](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/)
+    *   [Azure DevOps Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)
 
 ---
 
