@@ -18,8 +18,9 @@ This repository provides a hands-on approach to deploying **highly available con
 
 *   Deploy and manage containerized applications with **AKS**.
 *   Implement **secure networking** with NSGs, Ingress Controllers, and Service Mesh.
-*   Secure networking and ingress configuration.
-*   CI/CD pipeline integration for continuous deployment.
+*   Automate deployments with **CI/CD pipelines** using GitHub Actions & Azure DevOps.
+*   Integrate monitoring with **Prometheus, Grafana, and Azure Monitor** for observability.
+*   Scale applications dynamically based on workload demand.
 
 ## 🌟 Core Skills Demonstrated
 
