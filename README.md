@@ -16,7 +16,8 @@ This repository provides a hands-on approach to deploying **highly available con
 
 ## 🛠️ Features
 
-*   Deployment and scaling of applications using Kubernetes deployments.
+*   Deploy and manage containerized applications with **AKS**.
+*   Implement **secure networking** with NSGs, Ingress Controllers, and Service Mesh.
 *   Secure networking and ingress configuration.
 *   CI/CD pipeline integration for continuous deployment.
 
