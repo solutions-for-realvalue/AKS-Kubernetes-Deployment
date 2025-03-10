@@ -14,22 +14,22 @@ This repository provides a hands-on approach to deploying **highly available con
 
 ## 🛠️ Features
 
-- Deployment and scaling of applications using Kubernetes deployments.
-- Secure networking and ingress configuration.
-- CI/CD pipeline integration for continuous deployment.
+*   Deployment and scaling of applications using Kubernetes deployments.
+*   Secure networking and ingress configuration.
+*   CI/CD pipeline integration for continuous deployment.
 
 ## 🌟 Core Skills Demonstrated
 
-- **Cloud Environments**: Azure AKS, Azure VMs
-- **IaC & Automation**: Terraform, Helm Charts, GitHub Actions
-- **Security & Compliance**: RBAC, NSGs, Encryption
-- **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana
+*   **Cloud Environments**: Azure AKS, Azure VMs
+*   **IaC & Automation**: Terraform, Helm Charts, GitHub Actions
+*   **Security & Compliance**: RBAC, NSGs, Encryption
+*   **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana
 
 ---
 
 ## 📌 Getting Started
 
-- steps for environment setup and deployment instructions...
+*   steps for environment setup and deployment instructions...
 
 ---
 
@@ -47,5 +47,5 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ## 📧 Contact & Connect
 
-📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-<!-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->
+*   📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+*   🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
