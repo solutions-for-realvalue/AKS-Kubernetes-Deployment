@@ -73,7 +73,8 @@ This repository provides a hands-on approach to deploying **highly available con
 *   Optimize resource utilization and implement cost-saving strategies.
 
     **📚 Relevant Courses:**
-    *   []
+    *   [Azure Monitor & Log Analytics](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+    *   [Kubernetes Monitoring with Prometheus](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 
 ---
 
