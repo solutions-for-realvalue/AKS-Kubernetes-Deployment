@@ -26,6 +26,23 @@ This repository provides a hands-on approach to deploying **highly available con
 
 ## 📖 Learning Roadmap
 
+### 🛠️ **Phase 1: Kubernetes Fundamentals**
+
+*   Set up an **Azure Kubernetes Service (AKS) cluster**.
+*   Deploy **containerized applications** using **Kubernetes manifests**.
+*   Configure **Load Balancing & Ingress Controllers** for external access.
+
+    **📚 Relevant Courses:**
+    *   [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/)
+    *   [AZ-104: Microsoft Azure Administrator](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    *   [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
+    *   [Microsoft Learn - ARM Templates Best Practices](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
+
+
+
+
+
+
 
 
 ## 📂 Repository Structure
