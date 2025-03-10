@@ -68,7 +68,12 @@ This repository provides a hands-on approach to deploying **highly available con
 
 ### 🛠️ **Phase 5: Monitoring & Cost Management
 
+*   Enable observability with Azure Monitor, Prometheus, and Grafana.
+*   Set up alerts and notifications for performance metrics.
+*   Optimize resource utilization and implement cost-saving strategies.
 
+    **📚 Relevant Courses:**
+    *   []
 
 ---
 
