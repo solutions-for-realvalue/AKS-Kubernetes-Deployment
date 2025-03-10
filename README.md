@@ -46,7 +46,7 @@ This repository provides a hands-on approach to deploying **highly available con
     *   [Terraform for Azure](https://www.udemy.com/course/terraform-on-azure-services/)
     *   [Helm Charts & Kubernetes](https://www.udemy.com/course/definitive-helm-course-beginner-master/)
 
-### 🛠️ **Phase 3: Security & Compliance
+### 🛠️ **Phase 3: Security & Compliance**
 
 *   Implement **RBAC (Role-Based Access Control)** for Kubernetes resources.
 *   Enforce security best practices using **Azure Policy & Defender for Cloud**.
@@ -66,7 +66,7 @@ This repository provides a hands-on approach to deploying **highly available con
     *   [CI/CD with GitHub Actions](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/)
     *   [Azure DevOps Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)
 
-### 🛠️ **Phase 5: Monitoring & Cost Management
+### 🛠️ **Phase 5: Monitoring & Cost Management**
 
 *   Enable observability with Azure Monitor, Prometheus, and Grafana.
 *   Set up alerts and notifications for performance metrics.
