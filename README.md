@@ -57,6 +57,7 @@ This repository provides a hands-on approach to deploying **highly available con
     *   [Azure Kubernetes Security Best Practices](https://learn.microsoft.com/en-us/azure/aks/security-best-practices)
 
 ### 🛠️ **Phase 4: CI/CD Automation**
+
 *   Automate deployments using **GitHub Actions & Azure DevOps**.
 *   Implement **rolling updates & canary deployments** in Kubernetes.
 *   Integrate automated testing and security scanning.
@@ -64,6 +65,10 @@ This repository provides a hands-on approach to deploying **highly available con
     **📚 Relevant Courses:**
     *   [CI/CD with GitHub Actions](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/)
     *   [Azure DevOps Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)
+
+### 🛠️ **Phase 5: Monitoring & Cost Management
+
+
 
 ---
 
