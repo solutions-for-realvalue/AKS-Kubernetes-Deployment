@@ -33,10 +33,8 @@ This repository provides a hands-on approach to deploying **highly available con
 *   Configure **Load Balancing & Ingress Controllers** for external access.
 
     **📚 Relevant Courses:**
-    *   [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/)
-    *   [AZ-104: Microsoft Azure Administrator](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
-    *   [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
-    *   [Microsoft Learn - ARM Templates Best Practices](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
+    *   [Kubernetes for Beginners](https://www.udemy.com/course/kubernetes-masterclass-for-beginners/)
+    *   [Azure Kubernetes Service (AKS) Basics](https://learn.microsoft.com/en-us/azure/aks/)
 
 
 
