@@ -57,8 +57,8 @@ This repository provides a hands-on approach to deploying **highly available con
     *   [Azure Kubernetes Security Best Practices](https://learn.microsoft.com/en-us/azure/aks/security-best-practices)
 
 ### 🛠️ **Phase 4: 
-*   Automate deployments using GitHub Actions & Azure DevOps.
-*   Implement rolling updates & canary deployments in Kubernetes.
+*   Automate deployments using **GitHub Actions & Azure DevOps**.
+*   Implement **rolling updates & canary deployments** in Kubernetes.
 *   Integrate automated testing and security scanning.
 
     **📚 Relevant Courses:**
