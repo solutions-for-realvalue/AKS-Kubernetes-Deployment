@@ -36,6 +36,17 @@ This repository provides a hands-on approach to deploying **highly available con
     *   [Kubernetes for Beginners](https://www.udemy.com/course/kubernetes-masterclass-for-beginners/)
     *   [Azure Kubernetes Service (AKS) Basics](https://learn.microsoft.com/en-us/azure/aks/)
 
+### 🛠️ **Phase 2: Infrastructure as Code (IaC) with Terraform & Helm**
+
+*   Define AKS infrastructure using **Terraform**.
+*   Manage Kubernetes configurations with **Helm Charts**.
+*   Store and manage container images in **Azure Container Registry (ACR)**.
+
+    **📚 Relevant Courses:**
+    *   [Terraform for Azure](https://www.udemy.com/course/terraform-on-azure-services/)
+    *   [Helm Charts & Kubernetes]()
+
+
 
 
 
